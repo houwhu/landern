@@ -88,8 +88,10 @@
 	width:100px;
 }
 
+#a_m div{display: flex;}
 #a_m div span{width: 100px;}
-
-
+#a_m div p{flex: 1;}
+#p_m div{display: flex;}
 #p_m div span{width: 100px;}
+#p_m div p{flex: 1;}
 
