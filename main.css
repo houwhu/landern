@@ -6,7 +6,8 @@
 .banner {
   position: relative;
   margin-top: 0px;
-  width: 100%;
+  display:flex;
+  flex:1;	
   height: 232px;
   background-image: url('./1611500889418.png');
   background-size: cover;
