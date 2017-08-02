@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+  position: relative;
+  margin-top: 0px;
+  width: 100%;
+  height: 232px;
+  background-image: url('./1611500889418.png');
+  background-size: cover;
+  background-position: center;
+}
+.banner p {
+  position: absolute;
+  bottom: 0;
+  padding: 5px;
+  width: 100%;
+  height: 40px;
+  background-color: rgba(0, 0, 0, .6);
+  color: #fff;
+  text-align: center;
+  line-height: 40px;
+  font-size: 16px;
+}
+.banner span {
+  line-height: 40px;
+}
+.banner small {
+  display: inline-block;
+  background-color: #282c30;
+  line-height: 15px;
+  padding-left: 2px;
+  padding-right: 2px;
+  font-size: 12px;
+}
+
+.title {
+  margin: 20px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+.title p {
+  font-size: 18px;
+}
+.appointment {
+  display: inline-block;
+  margin-left: 8px;
+  margin-top: -3px;
+  padding: 2px 3px;
+  background-color: cornflowerblue;
+  border-radius: 2px;
+  color: white;
+  font-size: 12px;
+  vertical-align: middle;
+}
+.title .time {
+  margin-top: 10px;
+  font-size: 15px;
+  color: #c8c8c8
+}
+
+.details {
+  margin: 20px;
+  font-size: 15px;
+  color:#3b3b3b
+}
+
+.details p {
+  margin-bottom: 10px;
+}
+
+.intro {
+  position: relative;
+  margin-left: 10px;
+}
+.intro::before {
+  position: absolute;
+  content: '';
+  left: -10px;
+  height: 14px;
+  top: 3px;
+  border-right: 4px solid #fa5056;
+}
+.font_black{
+	font-weight: bold;
+	width:100px;
+}
+#a_m div{display: flex;}
+#a_m div span{width: 100px;}
+#a_m div p{flex: 1;}
+#p_m div{display: flex;}
+#p_m div span{width: 100px;}
+#p_m div p{flex: 1;}
