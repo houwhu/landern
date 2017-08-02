@@ -15,7 +15,6 @@
 .banner p {
   position: absolute;
   bottom: 0;
-  padding: 5px;
   width: 100%;
   height: 40px;
   background-color: rgba(0, 0, 0, .6);
