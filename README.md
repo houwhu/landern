@@ -1,5 +1,5 @@
 蓝灯(Lantern)最新版本下载 Lastest version of Lantern
-<a href=''>蓝灯最新版本下载地址请点这里 Click here for most updated version of Lanternred</a>_circle
+<a href='https://github.com/getlantern/download'>蓝灯最新版本下载地址请点这里 Click here for most updated version of Lanternred</a>_circle
 
 Windows 版本(XP SP3+) Windows (XP SP3+) 备用地址 Alternative address
 
